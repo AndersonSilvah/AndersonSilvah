@@ -2,7 +2,7 @@
 
 -☕Student | Future Developer💻
 
--💻Front-end | Mobile
+-💻Mobile| kotlin
 
 -📩 Anderson-r13@hotmail.com
 
